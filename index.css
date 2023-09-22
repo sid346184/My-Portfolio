@@ -190,7 +190,7 @@ html {
     position: relative;
     width: 17rem;
     height: 20rem;
-    margin: 10% 10% 10% 10%;
+    margin: 10% 10% 10% 0%;
     border: 0px transparent solid;
     border-radius: 5%;
     box-shadow: 0px 0px 10000000000000px rgb(73, 73, 72);
@@ -289,9 +289,9 @@ a:hover{
     align-items: center;
     justify-content: center;
     box-shadow: 0px 0px 10000000000000px rgb(73, 73, 72);
-    width: 100%; /* Use percentage for responsive container */
-    max-width: 400px; /* Define a maximum width if needed */
-    margin: 10% auto; /* Center the container horizontally */
+    width: 100%; 
+    max-width: 400px; 
+    margin: 10% auto; 
    
 }
 .text-box{
