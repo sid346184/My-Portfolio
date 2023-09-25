@@ -103,7 +103,7 @@ html {
 }
 
 .base-image{
-    transform: translateY(-50px);
+    transform: translateY(-35%);
     border: 5px solid white;
     border-radius: 50%;
     background: radial-gradient(#41413c79, #000000);
