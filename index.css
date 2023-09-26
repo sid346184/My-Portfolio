@@ -1,3 +1,4 @@
+
 ::-webkit-scrollbar {
     width: 5px;
 }
@@ -100,13 +101,13 @@ html {
     background-color: #030303;
     background-size: 100%;
 
-}
+    }
 
 .base-image{
-    transform: translateY(-35%);
+    transform: translateY(-50px);
     border: 5px solid white;
     border-radius: 50%;
-    background: radial-gradient(#41413c79, #000000);
+    background: radial-gradient(#24241d, #000000);
     width: 50%;
     max-width: 500px;
 }
@@ -151,7 +152,7 @@ html {
     transform: translateY(-50%);
     background-image: linear-gradient(to top right, rgb(19, 14, 14), rgb(71, 70, 70));
     transition:image 0.3s ease;
-    transition: background-image 0.3s ease, height 0.3s ease, width 0.3s,margin 0.3s,font-size 0.3s,color 0.3s ease;
+    transition: background-image 0.3s ease, height 0.3s ease, width 0.3s,margin 0.3s,font-size 0.3s,color 0.3s ease, font-size 0.3s ease;
     overflow: hidden; 
     align-items: center; 
     justify-content: center; 
@@ -165,8 +166,27 @@ html {
     width: 19rem;
     margin-bottom: 0rem;
     color: #000000;
-    text-decoration: underline 3px;
+    
     box-shadow: 0px 0px 20px rgba(223, 236, 231, 0.726);
+}
+
+.box p{
+    font-size: 0px;
+}
+
+.box:hover svg{
+    width: 0px;
+    height: 0px;
+}
+
+.box:hover p{
+    padding: 25px;
+    font-size: 15px;
+    text-align: center;    
+}
+
+.box:hover h2{
+    font-size: 0px;
 }
 
 #links-pic{
@@ -191,9 +211,8 @@ html {
 }
 
 #wanna-connect{
-    width:19rem;
-    height:27rem;
-   
+    width: 19rem;
+    height: 27rem;
     border:rgb(255, 255, 255) solid 5px;
     border-radius: 10%;
     
