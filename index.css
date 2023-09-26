@@ -133,7 +133,7 @@ html {
 #projects{
     display: flex;
     flex-wrap: wrap;
-    padding: 0% 15% 200px 15%;
+    padding: 0% 15% 150px 15%;
     background-color:black;
     background-image: radial-gradient(rgba(51, 49, 49, 0.897) 2px, transparent 2px);
     background-size: 20px 20px;
