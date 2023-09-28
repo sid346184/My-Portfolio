@@ -171,6 +171,10 @@ html {
 
 .box p{
     font-size: 0px;
+    -webkit-user-select: none;  
+    -moz-user-select: none;     
+    -ms-user-select: none;      
+    user-select: none; 
 }
 
 .box:hover svg{
@@ -189,6 +193,10 @@ html {
     border-radius: 30px;
     font-size: 15px;
     text-align: center;    
+    -webkit-user-select: none;  
+    -moz-user-select: none;     
+    -ms-user-select: none;      
+    user-select: none; 
 }
 
 .box:hover h2{
