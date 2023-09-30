@@ -266,11 +266,11 @@ a:hover{
     padding-bottom: 20px;
 }
 
-#credit h1{
+#credit h2{
     transition:color 0.4s ease;
 }
 
-#credit h1:hover{
+#credit h2:hover{
     color: rgba(243, 83, 83, 0.9);
 }
 
