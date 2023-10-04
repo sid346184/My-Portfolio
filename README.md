@@ -39,4 +39,5 @@ To use this template for your own personal portfolio:
 7. Feel free to add additional sections or features to suit your needs and preferences.
 
 ## Contributing
-If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes. We welcome contributions and improvements!
+If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
+<p align="center">❤️❤️❤️</p>
