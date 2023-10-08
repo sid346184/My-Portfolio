@@ -46,9 +46,7 @@ html {
     margin: 0%;
   }
 
-  #navbar a:hover {
-    color: #e4a908;
-  }
+
 
 
   #navbar {
@@ -87,13 +85,13 @@ html {
     font-size: 18px;
     color: #fff;
     font-weight: bold;
-    transition: text-decoration 0.3s ease;
+    transition: color 0.3s ease;
   }
-  
+
   #navbar a:hover {
-    text-decoration: underline;
-    background-color: #000000;
+    color: #e4a908;
   }
+
 
 
 
