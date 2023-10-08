@@ -84,7 +84,7 @@ html {
     font-size: 18px;
     color: #fff;
     font-weight: bold;
-    transition: color 0.2s ease;
+    transition: color 0.2s ease-out;
   }
 
   #navbar a:hover {
