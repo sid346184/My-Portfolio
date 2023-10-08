@@ -45,9 +45,14 @@ html {
     padding: 0;
     margin: 0%;
   }
-  
+
+  #navbar a:hover {
+    color: #e4a908;
+  }
+
 
   #navbar {
+    padding:20px;
     border: transparent solid 1px;
     border-radius: 5px;
     background-image: linear-gradient( 150deg,#141313a9,#1e1f1fa8);
