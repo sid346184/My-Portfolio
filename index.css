@@ -286,7 +286,11 @@ a:hover{
 }
 
 #inspiration{
-    background-color: #353941;
+  background-color: rgba(50,50,50,0.8);
+  display: inline-block;
+  border-radius: 20px;
+  padding: 1%;
+  margin: 10px;
 }
 
 #inspiration h4{
